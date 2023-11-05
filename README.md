@@ -1,4 +1,4 @@
-# E-book-Intelig-ncia-Artificial
+# E-book-Inteligência-Artificial
 Projeto e-book Gerado por IA
 
 <h2>Prompt chat gpt3 + aiprm:</h2>
