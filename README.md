@@ -2,7 +2,8 @@
 Projeto e-book Gerado por IA
 
 <h2>Prompt chat gpt3 + aiprm:</h2>
-<p>crie um titulo de ebook sobre o tema inteligencia artificial</p>
+<p>O plug-in AIPRM é instalado no navegador e ele fornece varios templates e contexto pré configurador para determinados assuntos, no casso eu usei o contexto de E-book, por isso o prompt ficou tão simples</p>
+<p>Titulo:crie um titulo de ebook sobre o tema inteligencia artificial</p>
 <p>Conteúdo: criado com ajuda do Plug-in AIPRM + chat gpt:</p>
 <p>ebook sobre o tema inteligencia artificial</p>
 
