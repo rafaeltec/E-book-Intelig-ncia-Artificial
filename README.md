@@ -13,5 +13,5 @@ Projeto e-book Gerado por IA
 
 <h2>Diagramação, preferi usar o https://www.ebookmaker.ai/ ao inves do Power point: </h2>
 <p>O ebookmaker gera tudo atraves de IA, forneci somente o texto e as imagens. O resto ele fez generativo</p>
-<h2>Link para acessar on-line o e-book de IA:</h2>h2
+<h2>Link para acessar on-line o e-book de IA:</h2>
 <p>https://www.ebookmaker.ai/ebook-sobre-o-tema-inteligencia-artificial</p>
