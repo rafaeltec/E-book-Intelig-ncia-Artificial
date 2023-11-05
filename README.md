@@ -9,3 +9,5 @@ Projeto e-book Gerado por IA
 <p></p>
 <h2>Prompt chat gpt-4 + dall-E + MidJourney:</h2>
 <p>A capa do livro apresenta um design moderno e futurista, com elementos gráficos que representam o poder computacional da inteligência artificial. Uma paleta de cores vibrantes, incluindo tons de azul, roxo e verde, cria uma sensação de inovação e progresso tecnológico.</p>
+
+<h2>Diagramação, preferi usar o https://www.ebookmaker.ai/ ao inves do Power point, pois o ebookmaker gera tudo atraves de IA, forneci simente o texto e as imagens o resto ele fez</h2>
